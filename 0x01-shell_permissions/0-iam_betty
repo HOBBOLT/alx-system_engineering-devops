@@ -1,1 +1,2 @@
-Betty is the new change
+#!/bin/bash
+su betty
