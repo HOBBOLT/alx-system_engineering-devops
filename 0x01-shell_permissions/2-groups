@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
+<<<<<<< HEAD
 groups
+=======
+$ groups julien@ubuntu
+>>>>>>> d43589619a17d3e4d67f3c78cf08fb647f6337f3
+=======
+groups
+>>>>>>> 7000780feeab5ffc5bd22e972706ac7af83979e0
